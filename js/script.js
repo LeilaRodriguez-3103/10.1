@@ -20,7 +20,7 @@ const strangeArray = [
   },
   "Another String",
   ["Hola mundo!"],
-  "b is a letter",
+  "B is a letter",
   "JavaScript",
 ];
 
